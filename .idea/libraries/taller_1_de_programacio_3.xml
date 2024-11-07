@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="taller-1-de-programacio-3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ExpresionBalanceada.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TDAColaPrioridad a 1 1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TDAPila - copia.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TDAColasTALLER.zip!/" />
+      <root url="jar://$PROJECT_DIR$/EVALUACIONRPNGUI.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/taller 1/taller 1.iml" filepath="$PROJECT_DIR$/taller 1/taller 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller 2/taller 2.iml" filepath="$PROJECT_DIR$/taller 2/taller 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller 3/taller 3.iml" filepath="$PROJECT_DIR$/taller 3/taller 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller 4/taller 4.iml" filepath="$PROJECT_DIR$/taller 4/taller 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taller 5/taller 5.iml" filepath="$PROJECT_DIR$/taller 5/taller 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/taller-1-de-programacio-3.iml" filepath="$PROJECT_DIR$/.idea/taller-1-de-programacio-3.iml" />
+    </modules>
+  </component>
+</project>
